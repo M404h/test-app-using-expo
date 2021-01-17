@@ -30,7 +30,7 @@ $expo start
 
 
 
-##Errors and fix 
+## Errors and fix 
 in case of error when creating expo project after installition 
 ```
 $Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
