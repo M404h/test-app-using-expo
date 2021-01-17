@@ -28,6 +28,9 @@ $cd weather-app
 $expo start 
 ```
 
+## UI structure 
+
+(images)
 
 
 ## Errors and fix 
