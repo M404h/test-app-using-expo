@@ -2,7 +2,7 @@
 
 
 
-##intro 
+## intro 
 this is a test application for weather based on your city. 
 it has 2 main pages. 
 
