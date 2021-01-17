@@ -3,8 +3,7 @@
 
 
 ## intro 
-this is a test application for weather based on your city. 
-it has 2 main pages. 
+this is a weather application using expo, which will view the weather of your city 
 
 ## Technologies
 Project is created with:
