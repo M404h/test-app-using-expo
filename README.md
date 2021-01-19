@@ -28,12 +28,10 @@ cd weather-app
 expo start 
 ```
 
-
 ## addional UI parts 
 * install icons 
 ```
 npm install react-icons --save
-
 ```
 (images)
 
