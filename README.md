@@ -15,26 +15,31 @@ To run this project, install it locally using npm:
 ### Expo 
 * install 
 ```
-$ npm install expo-cli --global
+ npm install expo-cli --global
 ```
 * add to system envoirment 
 ```
-$ C:\Users\(your user) \AppData\Roaming\npm
+ C:\Users\(your user) \AppData\Roaming\npm
 ```
 * create project 
 ```
-$expo init weather-app
-$cd weather-app
-$expo start 
+expo init weather-app
+cd weather-app
+expo start 
 ```
 
-## UI structure 
 
+## addional UI parts 
+* install icons 
+```
+npm install react-icons --save
+
+```
 (images)
 
 
 ## Errors and fix 
 in case of error when creating expo project after installition 
 ```
-$Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
