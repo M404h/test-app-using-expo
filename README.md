@@ -7,8 +7,11 @@ this is a weather application using expo, which will view the weather of your ci
 
 ## Technologies
 Project is created with:
-* Expo
-* weather API
+* Expo (ReactNative)
+* weather API (openweather) -> work based on lon and lan
+* Ionicons for icons
+* geolocation to find city (openweather) ->from lon and lan
+* expo-location -> to get lon and lan
 
 ## Setup
 To run this project, install it locally using npm:
@@ -19,7 +22,7 @@ To run this project, install it locally using npm:
 ```
 * add to system envoirment 
 ```
- C:\Users\(your user) \AppData\Roaming\npm
+ C:\Users\(your user)\AppData\Roaming\npm
 ```
 * create project 
 ```
@@ -28,16 +31,14 @@ cd weather-app
 expo start 
 ```
 
-## addional UI parts 
-* install icons 
+* Icons mapped through JSON file from Ionicons
 ```
-npm install react-icons --save
+icons.json
 ```
-(images)
 
 
 ## Errors and fix 
-in case of error when creating expo project after installition 
+in case of error when creating expo project or starting it  
 ```
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
