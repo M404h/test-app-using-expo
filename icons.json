@@ -1,0 +1,57 @@
+{
+  "01d": {
+    "icon": "sunny-outline"
+  },
+  "01n": {
+    "icon": "sunny-outline"
+  },
+   "02d": {
+    "icon": "cloudy-outline"
+  },
+  "02n": {
+    "icon": "cloudy-outline"
+  },
+  "03d": {
+    "icon": "cloudy-outline"
+  },
+  "03n": {
+    "icon": "cloudy-outline"
+  },
+  "04d": {
+    "icon": "cloudy-outline"
+  },
+  "04n": {
+    "icon": "cloudy-outline"
+  },
+  "09d": {
+    "icon": "rainy-outline"
+  },
+  "09n": {
+    "icon": "rainy-outline"
+  },
+  "10d": {
+    "icon": "rainy-outline"
+  },
+  "10n": {
+    "icon": "rainy-outline"
+  },
+  "11d": {
+    "icon": "thunderstorm-outline"
+  },
+  "11n": {
+    "icon": "thunderstorm-outline"
+  },
+  "13d": {
+    "icon": "snow-outline"
+  },
+  "13n": {
+    "icon": "snow-outline"
+  },
+  "50d": {
+    "icon": "sunny-outline"
+  },
+  "50n": {
+    "icon": "sunny-outline"
+  }
+   
+  }
