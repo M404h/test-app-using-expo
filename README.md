@@ -35,6 +35,7 @@ expo start
 ```
 icons.json
 ```
+![app](https://user-images.githubusercontent.com/67692329/106445788-80913400-6490-11eb-818c-3a4ef9dc0df9.gif)
 
 
 ## Errors and fix 
